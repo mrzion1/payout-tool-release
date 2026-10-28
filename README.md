@@ -1,17 +1,17 @@
 # Payout Tool
 
-Готовое приложение для Windows — скачайте и запустите, ничего дополнительно устанавливать не нужно (Python не требуется).
+A ready-to-run Windows desktop app for sending native coins and ERC-20 tokens from one wallet to many recipients across EVM networks. Download it and run it: no installation and no Python required.
 
-## Скачать
+## Download
 
-Последняя версия всегда доступна на странице [Releases](https://github.com/mrzion1/payout-tool-release/releases/latest) — файл `PayoutTool.exe`.
+The latest build is always available on the [Releases](https://github.com/mrzion1/payout-tool-release/releases/latest) page as `PayoutTool.exe`.
 
-## Запуск
+## Getting started
 
-1. Скачайте `PayoutTool.exe` из последнего релиза.
-2. Запустите файл двойным кликом.
-3. Если Windows SmartScreen покажет предупреждение о неизвестном издателе — нажмите "Подробнее" → "Выполнить в любом случае" (это стандартное поведение для новых `.exe` без цифровой подписи издателя).
+1. Download `PayoutTool.exe` from the latest release.
+2. Double-click the file to launch it.
+3. If Windows SmartScreen warns about an unknown publisher, click "More info" → "Run anyway". This is standard behavior for new `.exe` files without a publisher code-signing certificate.
 
-## О проекте
+## About
 
-Это скомпилированная версия приложения — исходный код не публикуется в этом репозитории. Сборка автоматически обновляется при выходе новых версий.
+This repository contains the compiled build only; the source code is not published here. New builds are published automatically with every release.
